@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "NissanOpti";
+}
+
+/* @font-face {
+  font-family: "Nissan";
+  src: url("font/NissanOpti.otf");
+} */
+
+#namapo {
+  font-family: "NissanOpti";
+}
+
+.navbar {
+  align-content: center;
+}
+
+.carousel-item img {
+  margin-top: -20%;
+}
